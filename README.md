@@ -418,15 +418,16 @@ Dr. Naushad Alam, Associate Professor, Department of Electronics Engineering, ZH
 
 # Author
 
+[Fareha Mohammadi](https://github.com/Fareha11), B.Tech Electronics Engineering, Zakir Husain College of Engineering and Technology (ZHCET), Aligarh Muslim University(AMU).
+
 [Rishabh Verma](https://github.com/Rishabh-zhcet), B.Tech Electronics Engineering, Zakir Husain College of Engineering and Technology (ZHCET), Aligarh Muslim University(AMU).
 
 [Zaid Akhtar](https://github.com/ZaidAkhtar), B.Tech Electronics Engineering, Zakir Husain College of Engineering and Technology (ZHCET), Aligarh Muslim University(AMU).
 
-[Fareha Mohammadi](https://github.com/Fareha11), B.Tech Electronics Engineering, Zakir Husain College of Engineering and Technology (ZHCET), Aligarh Muslim University(AMU).
 
 <p align="center" width="100%">
 
-   <img width="100%" src="https://user-images.githubusercontent.com/65393666/166419869-0d2c48c7-b679-45b6-a515-575166774c1a.png">
+   <img width="100%" src="https://user-images.githubusercontent.com/61002568/166670391-c86a27e9-7e8c-49cb-8aed-42d1e6125c9b.png">
    
 </p>
 
